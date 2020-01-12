@@ -1,0 +1,21 @@
+
+
+h1={
+'desc': '全场三合一'，
+'url':'https://www.macau-slot.com/API_SEV/cn/D/FB/markets/coming/all/threeinone',
+'request_data:'5f9e1a5b950c6686ceed5dbd7cb7f8b1bee26edfddc5f292c4c6348a79c83addfd005a2245767e2e94378292121e23e45a8280a4c574c1705811806fbdc20f828ed0104b0352a8a3c2953d3f6404d97a2893b84ed76995cc193cd208dccd452b02493c5f7d860b5a9602f101dd61ff9a3a1556856ca7ff8ffaeda09dc49b896b5fe66e63d9ec4a09723e71f8771620a69f323ab0344dc0c442d2806231eaedeea3383f32af2c9ff342382e10e95a08ada0cc24a57c5b2d54a6eb4c51910c3721&token='}
+
+o = 3988292384
+f(w) 返回16进制字符串,数字y,w对象
+
+v || (v = []),上波胆
+
+r=数组
+s.unzip(r),解压数组，返回数组，
+
+uzip 变量变化p（t,e）
+结束后： e: undef.n:0,i:deflate,s:0,:a:0,u:o,p:fat,y:263190526,x:76012,k:[]
+
+
+关键 v: v = 1 + o(5),1 + y & $[t] t=5
+var s, c, d, u, p, f, h, v, m, _ = [];
